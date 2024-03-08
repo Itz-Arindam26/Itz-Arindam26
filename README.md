@@ -1,4 +1,4 @@
-### Hi there 👋
+
 <h1 align="center">Hi 👋, I'm Arindam Samanta</h1>
 <h3 align="center">A passionate Software Developing Learner from India</h3>
 
