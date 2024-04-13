@@ -18,7 +18,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itz-arindam26&show_icons=true&locale=en" alt="itz-arindam26" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itz-arindam26&" alt="itz-arindam26" /></p>
-[![Itz-Arindam26's GitHub | Stats](https://stats.quine.sh/Itz-Arindam26/github?theme=light)](https://quine.sh?utm_source=widgets&utm_campaign=Itz-Arindam26)
+
 
 <!--
 **Itz-Arindam26/Itz-Arindam26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
